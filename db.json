@@ -1,1 +1,12 @@
-{"age":"not"}
+{
+	"git": {
+		"password":"s1tSIT%90320DaO",
+		"username":"servicegolfsitwl",
+		"uri":"https://gitlab.dell.com/globalops/BPM/logistics/dragonfx-dao/3PLPortal/noncicd/appproperties",
+		"refreshRate":60,
+		"sourceSkipSslValidation":true,
+		"searchPaths": "*.*",
+		"label":"NOV_DEV_2021",
+		"periodic":true
+	}
+}
